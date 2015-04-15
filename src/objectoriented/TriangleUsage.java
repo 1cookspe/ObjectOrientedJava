@@ -16,6 +16,11 @@ public class TriangleUsage {
      */
     public static void main(String[] args) {
         Triangle firstTriangle = new Triangle();
+        
+        firstTriangle.side1 = 65.3;
+        firstTriangle.angle1 = 54.6;
+        firstTriangle.angle2 = 32.0;
+        
     }
     
 }
